@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    font-family: "Gotham Black";
+    color: white;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
